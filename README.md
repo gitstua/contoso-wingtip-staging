@@ -1,4 +1,4 @@
 # contoso-wingtip-staging
 staging area for contoso-wingtip
 
-test 3 untrusted
+test 4 untrusted james*2 cormac
